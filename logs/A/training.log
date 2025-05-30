@@ -1,0 +1,11 @@
+Epoch 1/150, Loss: 1.5872, Train Acc: 0.3832, Val Acc: 0.2668, Val F1: 0.1952
+Epoch 10/150, Loss: 1.2691, Train Acc: 0.5986, Val Acc: 0.6117, Val F1: 0.5894
+Epoch 20/150, Loss: 1.1930, Train Acc: 0.6457, Val Acc: 0.6206, Val F1: 0.6043
+Epoch 30/150, Loss: 1.1359, Train Acc: 0.6758, Val Acc: 0.6640, Val F1: 0.6585
+Epoch 40/150, Loss: 1.1035, Train Acc: 0.6982, Val Acc: 0.6653, Val F1: 0.6589
+Epoch 50/150, Loss: 1.0762, Train Acc: 0.7082, Val Acc: 0.6950, Val F1: 0.6877
+Epoch 60/150, Loss: 1.0550, Train Acc: 0.7164, Val Acc: 0.6746, Val F1: 0.6674
+Epoch 70/150, Loss: 1.0460, Train Acc: 0.7260, Val Acc: 0.7261, Val F1: 0.7197
+Epoch 80/150, Loss: 1.0215, Train Acc: 0.7298, Val Acc: 0.6720, Val F1: 0.6682
+Epoch 90/150, Loss: 0.9759, Train Acc: 0.7553, Val Acc: 0.7154, Val F1: 0.7128
+Epoch 98/150, Loss: 0.9686, Train Acc: 0.7568, Val Acc: 0.7389, Val F1: 0.7354
