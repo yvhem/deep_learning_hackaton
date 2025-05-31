@@ -10,9 +10,8 @@ We developed a modular and noise-aware graph classification pipeline consisting 
 
 ### Model Architecture
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/116941799/449538310-d4cf4f48-c205-425a-8172-ad7d8a8aa7d0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg2OTU5NTksIm5iZiI6MTc0ODY5NTY1OSwicGF0aCI6Ii8xMTY5NDE3OTkvNDQ5NTM4MzEwLWQ0Y2Y0ZjQ4LWMyMDUtNDI1YS04MTcyLWFkN2Q4YThhYTdkMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUzMVQxMjQ3MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MWNhZGQxOWUxZGY3N2Y1ZDBhOGIzNTUxMGE0YmJlNTAzYzNlNzgyYmY4MjNhODhhOGI2MjNiZGIyMjVhNjhmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.sO_6HLJ2VAP5yQzjjBN8q949gS3X0luXx_R59HEHeiE" width="600" />
+  <img src="https://github.com/user-attachments/assets/7a3aeaf3-9903-4f02-b42e-1a3436c3436d" alt="uWuModel" width="600"/>
 </p>
-
 
 #### Input Projection
 
